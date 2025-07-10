@@ -198,3 +198,99 @@ gap: 170px;
 .textfour{
  margin-bottom: 60px;
 }
+.middle_text{
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+}
+.middle_p{
+  color: #000000;
+}
+.middle_btn{
+  background-color: #4E47FF;
+  color: white;
+  height: 48px;
+  width: 195px;
+  border: none;
+  border-radius: 10px;
+}
+.middle_img{
+  height: 365px;
+  width: 840px;
+  border-radius: 48px;
+}
+.middle{
+  width: 1140px;
+  padding: 70px 150px;
+  justify-content: center;
+align-items: center;
+display: flex;
+flex-direction: column;
+gap: 20px;
+background-color: white;
+}
+.formh{
+  font-size: 97px;
+  font-weight: bold;
+  width: 528px;
+  height: 232px;
+  color: #000000;
+}
+.common{
+  font-size: 18px;
+  font-weight: 500;
+}
+.formemail{
+  font-size: 20px;
+  font-weight: 400px;
+ width: 497px;
+ height: 70px;
+ border-radius: 10px;
+ border: 1px solid #D6DDED;
+ padding-left: 20px;
+}
+.forname{
+  font-size: 20px;
+  font-weight: 400px;
+  height: 70px;
+  width: 497px;
+  border-radius: 10px;
+   border: 1px solid #D6DDED;
+   padding-left: 20px;
+}
+.fortext{
+  font-size: 20px;
+  font-weight: 400px;
+  height: 135px;
+  width: 497px;
+  border-radius: 10px;
+  border: 1px solid #D6DDED;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.form{
+  display: flex;
+  width: 1140px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px 0;
+  margin-left: 150px;
+  gap: 100px;
+}
+.form_btn{
+  background-color: #4E47FF;
+  color: white;
+  font-size: 16px;
+  font-weight: 400px;
+  height: 62px;
+  width: 497px;
+  border-radius: 10px;
+  border: none;
+  
+}
+.onetwo{
+  align-items: center;
+}
+.formten{
+  gap: 10px;
+}

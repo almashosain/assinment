@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.divone{
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  width: 1140px;
+  padding: 50px 0;
+  justify-content: space-between;
+  align-items: center;
+}
+.divtwo{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width:900px ;
+  align-items: center;
+  gap: 40px;
+  font-size: 65px;
+  font-weight: 700;
+}
+.sectionone{
+  width: 1440px;
+  height: 700px;
+  background-image: url(./images/hero-bg\ copy.png);
+background-repeat: no-repeat;
+display: flex;
+padding-bottom: 200px;
+flex-direction: column;
+align-items: center;
+gap: 170px;
+
+}
+.logo{
+  font-size: 34px;
+  font-weight: bolder;
+  color: #4E47FF;
+}
+.btn_up{
+  height: 50px;
+  width: 130px;
+  background-color: #4E47FF;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+.divtwo{
+  color: #252432;
+  font-size: 65px;
+  font-weight: 700px;
+  text-align: center;
+  line-height: normal;
+}
+.btnone{
+  background-color: #4E47FF;
+  color: white;
+  height: 50px;
+  width: 175px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16;
+  font-weight: bold;
+}

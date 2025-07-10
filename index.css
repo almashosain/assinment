@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .raleway-normal {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -31,9 +38,9 @@
 }
 .sectionone{
   width: 1440px;
-  height: 700px;
+  height: 698px;
   background-image: url(./images/hero-bg\ copy.png);
-background-repeat: no-repeat;
+background-repeat:no-repeat;
 display: flex;
 padding-bottom: 200px;
 flex-direction: column;
@@ -73,3 +80,71 @@ gap: 170px;
   font-size: 16;
   font-weight: bold;
 }
+.stwo{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  }
+ .pone{
+  font-size: 24px;
+  font-weight: 400;
+  color: #252432;
+ } 
+ .btn_two{
+  background-color: #4E47FF;
+  color: white;
+  width: 230px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+ }
+ .imgone{
+  height: 328px;
+  width: 403px;
+  border-radius: 48px;
+ }
+ .sectwo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: -116px;
+ }
+ .secdivtwo{
+  width: 517px;
+  
+  gap: 23px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+.join{
+  font-size: 38px;
+  font-weight: bold;
+  text-align: center;
+  font-weight: 700px;
+}
+.hfirst{
+  font-size: 80px;
+  font-weight: bold;
+  color: #4E47FF;}
+  .divthree{
+    display: flex;
+    gap: 158px;
+    align-items: center;
+    justify-content: space-around;
+    align-self: stretch;
+    
+  }
+  .secthree{
+    background-color: #E5E7FF;
+    width: 1140px;
+    padding: 50px 80px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 0 auto;
+    margin-top: 116px;
+  }
+  

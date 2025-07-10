@@ -147,4 +147,54 @@ gap: 170px;
     margin: 0 auto;
     margin-top: 116px;
   }
+  .textfour{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+ }
+.arg{
+  color: #757575;
+}
+.argtwo{
+  color: #B3B3B3;
+}
+.userscommentlast{
+  display: flex;
+}
+.love{
+  color: #1E1E1E;
+}
+.extraone{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+ width: 300px;
+}
+.secfour{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.extra{
   
+  gap: 1000px;
+  box-shadow: 0.1px 0.1px 0.1px 0.1px rgb(21, 20, 20);
+}
+.all_contain{
+  margin: 137px 150px; 
+}
+.userscommentone{
+  margin: 10px 20px;
+  
+}
+.aurthorimg{
+  margin-left: 10px;
+}
+
+.circle{
+  border-radius: 50px;
+}
+.textfour{
+ margin-bottom: 60px;
+}
